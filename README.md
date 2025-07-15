@@ -1,5 +1,4 @@
-# sos_message
-# 🚨 Emergency SOS
+## 🚨 Emergency SOS
 
 A simple web widget to share your current location and send an SOS alert.
 
